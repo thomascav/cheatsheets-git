@@ -16,7 +16,9 @@ div
   font-size: 1em;
   border-radius: 0.625em;
   border: solid black 0.062em;
-}
+  margin-bottom: 0.2em;
+  padding-bottom: 0.5em;
+  }
 a {
   font-style: italic;
   font-weight: bold;
