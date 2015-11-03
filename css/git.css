@@ -11,6 +11,36 @@ p
 {
   font-size: 1em;
 }
+#title {
+  width: 100%; height:8.13em; border-radius: 0.625; background-color:#6368FF
+}
+#githelp {
+  width: 100%; height:1.5em; background-color:#9596B2
+}
+#gitstatus {
+  width: 100%; height:1.5em; background-color:#FF7C3E
+}
+#gitconfig {
+width: 100%; height:7.5em; background-color:#9596B2
+}
+#gitadd {
+width: 100%; height:4em; background-color:#FF7C3E
+}
+#gitcommit {
+width: 100%; height:7.8em; background-color:#9596B2
+}
+#gitlog {
+width: 100%; height:7.5em; background-color:#FF7C3E
+}
+#gitdiff {
+  width: 100%; height:1.5em; background-color:#9596B2
+}
+#gitcheckout {
+  width: 100%; height:4em; background-color:#FF7C3E
+}
+#man {
+  width: 100%; height:1.5em; background-color:#9596B2
+}
 div
 {
   font-size: 1em;
