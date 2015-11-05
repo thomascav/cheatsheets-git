@@ -3,6 +3,7 @@
   padding: 0.313em;
   padding-top: 0.313em;
   padding-bottom: 0.313em;
+  background-color: #2D3140;
 }
 ul {
   text-align: center;
@@ -49,6 +50,7 @@ div
   margin: auto;
   padding: 0.2em;
   width: 80%;
+  background-color: #B4C5FF;
   }
 a {
   font-style: italic;
@@ -58,6 +60,7 @@ a {
 .notion {
   font-style: italic;
   font-weight: bold;
+  font-size: 1.5em;
 }
 h1 {
   text-align: center;
