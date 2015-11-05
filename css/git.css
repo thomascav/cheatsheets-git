@@ -9,9 +9,9 @@ ul {
 }
 p
 {
-  font-size: 1em;
+  font-size: 1.5em;
 }
-#title {
+/*#title {
   width: 100%; height:8.13em; border-radius: 0.625; background-color:#6368FF;
 }
 #githelp {
@@ -40,19 +40,20 @@ width: 100%; height:7.5em; background-color:#FF7C3E;
 }
 #man {
   width: 100%; height:1.5em; background-color:#9596B2;
-}
+}*/
 div
 {
-  font-size: 1em;
+  font-size: 1.5em;
   border-radius: 0.625em;
   border: solid black 0.062em;
-  margin-bottom: 0.2em;
-  padding-bottom: 0.5em;
+  margin: auto;
+  padding: 0.2em;
+  width: 80%;
   }
 a {
   font-style: italic;
   font-weight: bold;
-  font-size: 1.125em;
+  font-size: 1.5em;
 }
 .notion {
   font-style: italic;
