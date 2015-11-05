@@ -3,15 +3,17 @@
   padding: 0.313em;
   padding-top: 0.313em;
   padding-bottom: 0.313em;
-  background-color: #2D3140;
+  }
+  body {
+    background-color: #2D3140;
 }
 ul {
   text-align: center;
 }
-p
+/*p
 {
   font-size: 1.5em;
-}
+}*/
 /*#title {
   width: 100%; height:8.13em; border-radius: 0.625; background-color:#6368FF;
 }
@@ -45,23 +47,28 @@ width: 100%; height:7.5em; background-color:#FF7C3E;
 div
 {
   font-size: 1.5em;
-  border-radius: 0.625em;
-  border: solid black 0.062em;
+  border-radius: 0.2em;
+  border: solid white 0.062em;
   margin: auto;
-  padding: 0.2em;
+  padding: 0.5em;
   width: 80%;
   background-color: #B4C5FF;
+  box-shadow: 0.06em 0.06em 0.75em #555;
   }
 a {
   font-style: italic;
   font-weight: bold;
-  font-size: 1.5em;
+  font-size: 1.3em;
+  background-color: black;
+  color: white;
+  padding: 0.05em;
 }
-.notion {
+/*.notion {
   font-style: italic;
   font-weight: bold;
   font-size: 1.5em;
-}
+  background-color: #B4C5FF;
+}*/
 h1 {
   text-align: center;
 }
