@@ -1,55 +1,54 @@
 * {
-  font-family:  nunito , fantasy;
-  padding: 0.313em;
-  padding-top: 0.313em;
-  padding-bottom: 0.313em;
-  }
+    font-family: nunito, fantasy;
+    padding: 0.313em;
+    padding-top: 0.313em;
+    padding-bottom: 0.313em;
+}
 .top {
-     position: fixed;
-     bottom: 0px;
-     right: 0px;
-     background-color: black;
-     color: white;
-     text-decoration: none;
-   }
-  body {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+body {
     background-color: #2D3140;
 }
-img{
+img {
     float: left;
     padding-top: 5%;
     max-width: 10%;
     max-height: 10%;
 }
 ul {
-  text-align: center;
+    text-align: center;
 }
-div
-{
-  font-size: 1.5em;
-  border-radius: 0.2em;
-  border: solid white 0.062em;
-  margin: auto;
-  padding: 0.5em;
-  width: 80%;
-  background-color: #B4C5FF;
-  box-shadow: 0.06em 0.06em 0.75em #555;
-  }
+div {
+    font-size: 1.5em;
+    border-radius: 0.2em;
+    border: solid white 0.062em;
+    margin: auto;
+    padding: 0.5em;
+    width: 80%;
+    background-color: #B4C5FF;
+    box-shadow: 0.06em 0.06em 0.75em #555;
+}
 a {
-  font-style: italic;
-  font-weight: bold;
-  font-size: 1.3em;
-  background-color: black;
-  color: white;
-  padding: 0.05em;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1.3em;
+    background-color: black;
+    color: white;
+    padding: 0.05em;
 }
 h1 {
-  text-align: center;
+    text-align: center;
 }
 h3 {
-  text-align: right;
-  font-style: italic;
+    text-align: right;
+    font-style: italic;
 }
 footer {
-  color: white;
+    color: white;
 }
