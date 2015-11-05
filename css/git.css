@@ -4,46 +4,20 @@
   padding-top: 0.313em;
   padding-bottom: 0.313em;
   }
+.top {
+     position: fixed;
+     bottom: 0px;
+     right: 0px;
+     background-color: black;
+     color: white;
+     text-decoration: none;
+   }
   body {
     background-color: #2D3140;
 }
 ul {
   text-align: center;
 }
-/*p
-{
-  font-size: 1.5em;
-}*/
-/*#title {
-  width: 100%; height:8.13em; border-radius: 0.625; background-color:#6368FF;
-}
-#githelp {
-  width: 100%; height:1.5em; background-color:#9596B2;
-}
-#gitstatus {
-  width: 100%; height:1.5em; background-color:#FF7C3E;
-}
-#gitconfig {
-width: 100%; height:7.5em; background-color:#9596B2;
-}
-#gitadd {
-width: 100%; height:4em; background-color:#FF7C3E;
-}
-#gitcommit {
-width: 100%; height:7.8em; background-color:#9596B2;
-}
-#gitlog {
-width: 100%; height:7.5em; background-color:#FF7C3E;
-}
-#gitdiff {
-  width: 100%; height:1.5em; background-color:#9596B2;
-}
-#gitcheckout {
-  width: 100%; height:4em; background-color:#FF7C3E;
-}
-#man {
-  width: 100%; height:1.5em; background-color:#9596B2;
-}*/
 div
 {
   font-size: 1.5em;
@@ -63,12 +37,6 @@ a {
   color: white;
   padding: 0.05em;
 }
-/*.notion {
-  font-style: italic;
-  font-weight: bold;
-  font-size: 1.5em;
-  background-color: #B4C5FF;
-}*/
 h1 {
   text-align: center;
 }
