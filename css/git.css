@@ -1,3 +1,18 @@
+@media screen and (max-width: 768px) {
+    div {
+        font-size: 1.9em;
+        border-radius: 0.2em;
+        border: solid white 0.062em;
+        margin: 0 0 0 0;
+        padding: 0.5em;
+        width: 100%;
+        background-color: #B4C5FF;
+        box-shadow: 0.06em 0.06em 0.75em #555;
+    }
+    div a {
+        width: 100%;
+    }
+}
 * {
     font-family: nunito, fantasy;
     padding: 0.313em;
